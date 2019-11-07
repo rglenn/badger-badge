@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SMT-1127-S-R
+#
+DEF SMT-1127-S-R LS 0 40 Y Y 1 L N
+F0 "LS" 0 160 50 H V L BNN
+F1 "SMT-1127-S-R" 0 -301 50 H V L BNN
+F2 "XDCR_SMT-1127-S-R" 0 0 50 H I L BNN
+F3 "668-1480-1-ND" 0 0 50 H I L BNN
+F4 "PUI" 0 0 50 H I L BNN
+F5 "Audio Indicator Transducer Electromagnetic 3.6Vpk 100mA Solder Pad 2.5Vpk 2231Hz to 3231Hz Surface Mount" 0 0 50 H I L BNN
+F6 "SMT-1127-S-R" 0 0 50 H I L BNN
+F7 "https://www.digikey.com/product-detail/en/pui-audio-inc/SMT-1127-S-R/668-1480-1-ND/5011417?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F8 "PUI" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 0 100 0 -200 N
+A 0 -50 150 2699 4500 0 0 6 N 0 100 0 -200
+X + 1 -100 0 100 R 40 40 0 0 P 
+X - 2 -100 -100 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

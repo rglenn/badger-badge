@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SMT-1127-S-R)(type Legacy)(uri ${KIPRJMOD}/SMT-1127-S-R.mod)(options "")(descr ""))
+)
