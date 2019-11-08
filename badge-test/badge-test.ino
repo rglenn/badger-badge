@@ -14,6 +14,10 @@ AudioConnection          patchCord1(tonesweep1, 0, mixer1, 0);
 AudioConnection          patchCord2(mixer1, dac1);
 // GUItool: end automatically generated code
 
+#define BUTTON_1 9
+#define BUTTON_2 10
+#define BUTTON_3 11
+#define BUTTON_4 12
 
 #define NUMPIXELS      10
 Adafruit_NeoPixel pixel_1 = Adafruit_NeoPixel(NUMPIXELS, 2, NEO_GRB + NEO_KHZ800);
