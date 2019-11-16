@@ -49,7 +49,7 @@ void setup() {
   digitalWrite(13, LOW);
 
   
-  dac1.analogReference(INTERNAL);
+  //dac1.analogReference(INTERNAL);
   mixer1.gain(0, 1.0);
 
   pixel_1.show();
