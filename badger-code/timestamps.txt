@@ -1,8 +1,8 @@
 Time in ms	Word
 ==========	====
-0			Badger
-320			Badger
-708			Badger
+0		Badger
+320		Badger
+708		Badger
 1078		Badger
 1466		Badger
 1803		Badger
@@ -13,6 +13,7 @@ Time in ms	Word
 3690		Badger
 4027		Mushroom
 4836		Mushroom
+
 5965		Badger
 6302		Badger
 6723		Badger
@@ -26,6 +27,7 @@ Time in ms	Word
 9722		Badger
 10110		Mushroom
 10817		Mushroom
+
 11912		Badger
 12334		Badger
 12671		Badger
@@ -39,6 +41,7 @@ Time in ms	Word
 15704		Badger
 16428		Mush
 16816		Mushroom
+
 17911		Badger
 18332		Badger
 18703		Badger
@@ -50,6 +53,7 @@ Time in ms	Word
 20977		Badger
 21314		Badger
 21736		Badger
+
 22073		A snake!
 22831		A snake!
 23926		Snake,
@@ -60,3 +64,7 @@ Time in ms	Word
 27936		Snake
 29250		It's a
 (loop to beginning)
+
+22+4+22+4+22+4+22+17
+=
+117
